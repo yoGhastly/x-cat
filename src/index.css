@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Mr.Wintermouse";
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/assets/fonts/MrsWintermouse.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Braun Linear Regular";
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/assets/fonts/BraunLinear-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Braun Linear Medium";
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/assets/fonts/BraunLinear-Medium.woff") format("woff");
+}
